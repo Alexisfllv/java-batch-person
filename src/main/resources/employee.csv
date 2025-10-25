@@ -1,0 +1,5 @@
+id_cliente,nombre,apellido,email,fecha_registro
+1,Alexis,Flores,alexis.flores@example.com,2024-10-25
+2,María,López,maria.lopez@example.com,2024-10-24
+3,Carlos,Ramírez,carlos.ramirez@example.com,2024-10-20
+4,Lucía,Pérez,lucia.perez@example.com,2024-10-22
